@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="star_height">200</integer>
+    <integer name="star_width">200</integer>
+
+    <integer name="moon_height">400</integer>
+    <integer name="moon_width">400</integer>
+
+    <integer name="cloud_rainy_grey_width">889</integer>
+    <integer name="cloud_rainy_grey_height">499</integer>
+
+    <integer name="cloud_rainy_white_width">628</integer>
+    <integer name="cloud_rainy_white_height">397</integer>
+
+    <integer name="cloud_rainy_drop_width">100</integer>
+    <integer name="cloud_rainy_drop_height">109</integer>
+
+    <integer name="rainbow_width">500</integer>
+    <integer name="rainbow_height">309</integer>
+
+    <integer name="bird_width">500</integer>
+    <integer name="bird_height">311</integer>
+
+    <integer name="aircab_width">500</integer>
+    <integer name="aircab_height">316</integer>
+
+    <integer name="helicopter_width">500</integer>
+    <integer name="helicopter_height">416</integer>
+
+    <integer name="fire_balloon_width">300</integer>
+    <integer name="fire_balloon_height">426</integer>
+
+    <integer name="icon_exit_width">512</integer>
+    <integer name="icon_exit_height">512</integer>
+
+    <integer name="b01_width">300</integer>
+    <integer name="b02_width">300</integer>
+    <integer name="b03_width">300</integer>
+    <integer name="b04_width">300</integer>
+    <integer name="b05_width">300</integer>
+    <integer name="b06_width">500</integer>
+    <integer name="b07_width">300</integer>
+    <integer name="b08_width">300</integer>
+    <integer name="b09_width">300</integer>
+    <integer name="b10_width">300</integer>
+    <integer name="b11_width">300</integer>
+    <integer name="b12_width">300</integer>
+    <integer name="b13_width">500</integer>
+
+    <integer name="b01_height">437</integer>
+    <integer name="b02_height">437</integer>
+    <integer name="b03_height">430</integer>
+    <integer name="b04_height">414</integer>
+    <integer name="b05_height">421</integer>
+    <integer name="b06_height">456</integer>
+    <integer name="b07_height">436</integer>
+    <integer name="b08_height">453</integer>
+    <integer name="b09_height">453</integer>
+    <integer name="b10_height">436</integer>
+    <integer name="b11_height">412</integer>
+    <integer name="b12_height">418</integer>
+    <integer name="b13_height">475</integer>
+
+    <integer name="balloon_pop_width">300</integer>
+    <integer name="balloon_pop_height">235</integer>
+
+    <integer name="numeric_character_width">150</integer>
+    <integer name="numeric_character_height">200</integer>
+
+    <integer name="speed_icon_width">250</integer>
+    <integer name="speed_icon_height">250</integer>
+
+    <integer name="speed_meter_width">250</integer>
+    <integer name="speed_meter_height">100</integer>
+
+    <integer name="thumb_width">300</integer>
+    <integer name="thumb_height">399</integer>
+
+    <integer name="ribbon01_width">451</integer>
+    <integer name="ribbon01_height">413</integer>
+    <integer name="ribbon02_width">654</integer>
+    <integer name="ribbon02_height">518</integer>
+    <integer name="ribbon03_width">1110</integer>
+    <integer name="ribbon03_height">473</integer>
+
+    <integer name="fire_001_width">500</integer>
+    <integer name="fire_001_height">500</integer>
+
+    <integer name="fire_002_width">500</integer>
+    <integer name="fire_002_height">500</integer>
+
+    <integer name="fire_003_width">500</integer>
+    <integer name="fire_003_height">440</integer>
+
+    <integer name="fire_004_width">500</integer>
+    <integer name="fire_004_height">452</integer>
+
+    <integer name="fire_005_width">500</integer>
+    <integer name="fire_005_height">450</integer>
+
+</resources>

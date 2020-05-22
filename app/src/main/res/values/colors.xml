@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#000000</color>
+
+    <!-- DrawableBackground Theme-->
+    <color name="ThemeDefaultBackground">#000000</color>
+    <color name="ThemeSunnyBackground">#FFFFFF</color>
+    <color name="ThemeNightBackground">#0A0045</color>
+    <color name="ThemeRainyBackground">#CCCCCC</color>
+
+    <color name="ThemeDayStartBackground">#2EA3D3</color>
+    <color name="ThemeDayEndBackground">#FFFFFF</color>
+
+    <color name="ThemeGridColorBrown">#A56E00</color>
+    <color name="ThemeGridColorYellow">#FDC25E</color>
+    <color name="ThemeGridColorRed">#A15B36</color>
+    <color name="ThemeGridColorGreen">#74640B</color>
+
+    <color name="ThemeRainbowBackground">#D4B8D9</color>
+
+    <!-- Sfx Background -->
+    <color name="ThemeSfxRed">#FF0000</color>
+    <color name="ThemeSfxYellow">#FFFE00</color>
+
+    <!-- confirm dialog -->
+    <color name="FragmentConfirmBackground">#FDDEEE</color>
+    <color name="FragmentConfirmStroke">#B1BCBE</color>
+
+    <!-- purchase page -->
+    <color name="PurchasePageBackground">#FDDEEE</color>
+    <color name="PurchasePageButtonText">#FFFFFF</color>
+</resources>

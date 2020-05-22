@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_splash_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F95D10">
+
+    <ImageView
+        android:id="@+id/iv_bk_right"
+        android:layout_height="@dimen/splash_page_background_right_part_height"
+        android:layout_width="@dimen/splash_page_background_right_part_width"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"/>
+
+    <ImageView
+        android:id="@+id/iv_bk_left"
+        android:layout_height="@dimen/splash_page_background_left_part_height"
+        android:layout_width="@dimen/splash_page_background_left_part_width"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"/>
+
+    <ImageView
+        android:id="@+id/iv_bk_center"
+        android:layout_height="@dimen/splash_page_background_center_part_height"
+        android:layout_width="@dimen/splash_page_background_center_part_width"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"/>
+
+    <ImageView
+        android:id="@+id/iv_splash_cat"
+        android:layout_width="@dimen/splash_page_logo_width"
+        android:layout_height="@dimen/splash_page_logo_height"
+        android:layout_centerInParent="true"
+        android:src="@drawable/splash_cat_left"/>
+
+    <ImageView
+        android:id="@+id/iv_splash_text_logo"
+        android:layout_width="@dimen/splash_page_logo_text_width"
+        android:layout_height="@dimen/splash_page_logo_text_height"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/iv_splash_cat"/>
+
+</RelativeLayout>

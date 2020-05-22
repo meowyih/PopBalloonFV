@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">氣球啵啵啵</string>
+
+    <!-- DEV -->
+    <string name="banner_ad_unit_id_dev">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- PRODUCTION -->
+    <string name="banner_ad_unit_id_prod">ca-app-pub-7396492235838283/1388240855</string>
+
+    <!-- confirm dialog -->
+    <string name="title_exit">確定嗎?</string>
+    <string name="desc_exit">真的要離開了嗎?</string>
+
+    <string name="title_cancel_purchase">取消購買</string>
+    <string name="desc_cancel_purchase">喜歡的話，下次請務必試試完整版唷!</string>
+
+    <string name="title_purchase_already_owned">已經買過了</string>
+    <string name="desc_purchase_already_owned">你已經買過了，我馬上幫你轉成正式版。</string>
+
+    <string name="title_purchase_error">發生錯誤</string>
+    <string name="desc_purchase_error">Google 回報錯誤，無法完成購買，請晚點再試。</string>
+
+    <string name="title_iabhelper_error">發生錯誤</string>
+    <string name="desc_iabhelper_error">Google 商城無法開啟，晚點再試試吧。</string>
+
+    <string name="title_purchased">購買完成</string>
+    <string name="desc_purchased">大感謝! 馬上幫你轉成正式版!</string>
+
+    <string name="btn_buy_full_version">購買完整版</string>
+    <string name="btn_play">開始遊戲</string>
+
+</resources>

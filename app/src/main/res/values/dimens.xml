@@ -1,0 +1,75 @@
+<resources>
+
+    <!-- splash page -->
+    <dimen name="splash_page_padding_bottom">100dp</dimen>
+    <dimen name="splash_page_logo_width">205dp</dimen> <!-- original size 1228x840, 1.4619:1 -->
+    <dimen name="splash_page_logo_height">140dp</dimen>
+
+    <dimen name="splash_page_logo_text_width">180dp</dimen> <!-- original size 600x200 -->
+    <dimen name="splash_page_logo_text_height">60dp</dimen>
+
+    <dimen name="splash_page_background_left_part_width">320dp</dimen> <!-- ~50mm -->
+    <dimen name="splash_page_background_left_part_height">334dp</dimen> <!-- ~50mm -->
+
+    <dimen name="splash_page_background_center_part_width">320dp</dimen> <!-- ~50mm -->
+    <dimen name="splash_page_background_center_part_height">262dp</dimen> <!-- ~50mm -->
+
+    <dimen name="splash_page_background_right_part_width">200dp</dimen> <!-- ~60mm -->
+    <dimen name="splash_page_background_right_part_height">311dp</dimen> <!-- ~60mm -->
+
+    <dimen name="balloon_max_width">80dp</dimen>
+    <dimen name="balloon_min_width">100dp</dimen>
+
+    <!-- purchase page -->
+    <dimen name="purchase_adv_screen_margin_top">5dp</dimen>
+    <dimen name="purchase_adv_screen_margin_left">5dp</dimen>
+    <dimen name="purchase_adv_screen_margin_right">50dp</dimen>
+    <dimen name="purchase_adv_screen_margin_bottom">120dp</dimen>
+
+    <dimen name="purchase_top_margin">30dp</dimen> <!-- 5mm -->
+    <dimen name="purchase_button_margin_right">30dp</dimen>
+    <dimen name="purchase_button_gap">5dp</dimen>
+    <dimen name="purchase_button_width">155dp</dimen>
+    <dimen name="purchase_button_height">80dp</dimen>
+
+    <dimen name="purchase_button_text_size">20sp</dimen>
+
+    <dimen name="purchase_bottom_left_1_image_width">115dp</dimen> <!-- about 18mm -->
+    <dimen name="purchase_bottom_left_2_image_width">85dp</dimen> <!-- about 14mm -->
+    <dimen name="purchase_bottom_left_3_image_width">85dp</dimen> <!-- about 14mm -->
+    <dimen name="purchase_bottom_right_1_image_width">115dp</dimen> <!-- about 18mm -->
+    <dimen name="purchase_bottom_right_2_image_width">85dp</dimen> <!-- about 14mm -->
+    <dimen name="purchase_bottom_right_3_image_width">85dp</dimen> <!-- about 14mm -->
+
+    <dimen name="purchase_left_ribbon_height">120dp</dimen>
+    <dimen name="purchase_left_ribbon_margin_bottom">110dp</dimen> <!-- a little bit overlap with left 1 image (boy) -->
+
+    <!--confirm fragment -->
+    <dimen name="fragment_confirm_width">450dp</dimen> <!-- around70mm -->
+    <dimen name="fragment_confirm_height">260dp</dimen>
+    <dimen name="fragment_confirm_padding">20dp</dimen>
+    <dimen name="fragment_confirm_rounded_corner">30dp</dimen>
+    <dimen name="fragment_confirm_stroke">5dp</dimen>
+
+    <dimen name="fragment_confirm_image_width">180dp</dimen> <!-- original size 1223x846, 1.445626:1 -->
+    <dimen name="fragment_confirm_image_height">125dp</dimen>
+    <dimen name="fragment_confirm_image_margin_right">5dp</dimen>
+
+    <dimen name="fragment_confirm_text_title_width">230dp</dimen>
+    <dimen name="fragment_confirm_text_title_height">50dp</dimen>
+    <dimen name="fragment_confirm_text_title_size">25sp</dimen>
+
+    <dimen name="fragment_confirm_text_desc_width">230dp</dimen>
+    <dimen name="fragment_confirm_text_desc_height">100dp</dimen>
+    <dimen name="fragment_confirm_text_desc_size">15sp</dimen>
+
+    <dimen name="fragment_confirm_button_width">50dp</dimen>
+    <dimen name="fragment_confirm_button_height">50dp</dimen>
+    <dimen name="fragment_confirm_button_margin_horizontal">50dp</dimen>
+
+    <!-- game play -->
+    <dimen name="game_speed_up_margin_top">10dp</dimen>
+    <dimen name="game_speed_up_margin_right">10dp</dimen>
+    <dimen name="game_speed_meter_gap">10dp</dimen>
+
+</resources>

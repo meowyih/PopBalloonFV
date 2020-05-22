@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Balloon Popping</string>
+
+    <!-- DEV -->
+    <string name="banner_ad_unit_id_dev">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- PRODUCTION -->
+    <string name="banner_ad_unit_id_prod">ca-app-pub-7396492235838283/1388240855</string>
+
+    <!-- confirm dialog -->
+    <string name="title_exit">Sure?</string>
+    <string name="desc_exit">Do you want to leave the game?</string>
+
+    <string name="title_cancel_purchase">Purchase Cancelled</string>
+    <string name="desc_cancel_purchase">Please try our full version next time.</string>
+
+    <string name="title_purchase_already_owned">Already Owned</string>
+    <string name="desc_purchase_already_owned">You already owned the full version. I am converting the APP to full version now.</string>
+
+    <string name="title_purchase_error">Error</string>
+    <string name="desc_purchase_error">We got an error from Google due to the billing process. The purchase was cancelled.</string>
+
+    <string name="title_iabhelper_error">Error</string>
+    <string name="desc_iabhelper_error">Failed to launch the billing process. Try later.</string>
+
+    <string name="title_purchased">Purchase Complete</string>
+    <string name="desc_purchased">Many thanks! I have converted the application to full version.</string>
+
+    <string name="btn_buy_full_version">Buy Full Version</string>
+    <string name="btn_play">Game Start</string>
+
+</resources>
